@@ -74,7 +74,7 @@
     }
 
     .photo {
-      width: 70%;
+      width: 40%;
       border-radius: 10px;
     }
     
